@@ -16,7 +16,7 @@
   "dependencies": {
     "ts-pnp": "^1.1.4",
     "typescript": "^3.6.3",
-    "vue": "^2.6.10"
+    "vue": "^3.0.0"
   },
   "scripts": {
     "storybook": "start-storybook -p 6006",
